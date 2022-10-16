@@ -1,0 +1,56 @@
+Skills & expertise
+
+Full Stack Development Skills
+React
+CircleCI
+Node.js
+Twilio API
+AWS Amplify
+Flexbox
+ExpressJS
+Redux
+Underscore.js
+Next.js
+Docker
+Gatsby.js
+Tez.js
+
+Full Stack Development Deliverables
+Database Design
+Database Architecture
+API
+Web Application
+
+Full Stack Development Languages
+JavaScript
+SQL
+GraphQL
+SCSS
+HTML
+HTML5
+CSS 3
+CSS
+ECMAScript
+TypeScript
+Sass
+Web Servers
+lighttpd
+NGINX
+Apache HTTP Server
+
+Business Size
+Business with 10-99 Employees
+Business with 100-999 Employees
+Business with 1000+ Employees
+
+Databases
+
+PostgreSQL
+Realm Database
+SQLite
+Amazon Aurora
+MongoDB
+MySQL
+Redis
+Other skills
+Startup CompanyFirebaseGoogle APIs
