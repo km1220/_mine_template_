@@ -17,10 +17,10 @@ https://seekventures.com/
 https://travamigos.com/
 
 - ## **Next.js**
-http://www.deliveroo.com/
-https://www.typeform.com/
-https://vergecurrency.com/
 https://www.drpepper.ca/en/
+https://www.typeform.com/
+http://www.deliveroo.com/
+https://vergecurrency.com/
 https://www.pavia.io/
 https://blackcat-eight.vercel.app/
 
