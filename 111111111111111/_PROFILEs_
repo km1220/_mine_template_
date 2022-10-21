@@ -256,17 +256,17 @@ More than 10 years of experience working with a wide range of technologies for b
 The stack of technologies that I use, but not limited to:
 
 > - Web
-    - React, AngularJS, Vue.js, ES6, Typescript
-    - Python, PHP, Node.js, Express.js, Next.js, Gatsby.js, Nest.js,
+    - React, Vue.js, Svelte, AngularJS, ES6, Typescript
+    - Node.js, Express.js, PHP, Python, Golang, Next.js, Gatsby.js, Nest.js, RESTful API, GraphQL
 
 > - Style/CSS
-      LESS, SCSS, TailwindCSS, Material UI, Ant Design, etc
+      LESS, SCSS, TailwindCSS, Material UI, Ant Design, Chakra UI, etc
 
 > - Blockchain
       Token and NFT minting, Staking&Vesting, Marketplace, ICO, Defi, DEX, Arbitrage, Dapp with web3.js and ethers.js, Ethereum, BSC, Polygon, Solana, Flow, Wallet development, Metamask, etc
 
 > - Database
-      MongoDB, PostgreSQL, MySQL, Oracle, RedisDB, MariaDB, Swarm, BigchainDB, etc
+      MySQL, PostgreSQL, MongoDB, Oracle, RedisDB, MariaDB, Swarm, BigchainDB, etc
 
 > - Services
       AWS: SQS, SNS, API JSON, Lambda functions, Serverless solutions, Heroku, Godaddy, Google Cloud Platform, DigitalOcean, Bluehost, Salesforce, IPFS, Doker, Kurbernate, etc
