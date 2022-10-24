@@ -11,6 +11,24 @@ Phone: 	+1 212-757-0580
 
 
 
+
+Canada
+==================================================================================
+Address:
+	3101 Ch de la Tour
+		Montréal
+		Québec
+		H3T 1J7
+		Canada
+
+Phone:
+	+1
+		514-343-6908
+
+
+
+
+
 Amsterdam			North Holland
 Delft				South Holland
 
