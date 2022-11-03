@@ -21,7 +21,7 @@
   https://www.typeform.com/
   http://www.deliveroo.com/
   https://vergecurrency.com/
-  https://www.pavia.io/
+  https://www.pavia.io/   (web3)
   https://blackcat-eight.vercel.app/
 
 - Nest.js
@@ -68,6 +68,11 @@
 //
 //
 //
+
+- Umbraco / C#
+  https://www.eft.nl/
+  https://www.idagro.nl/
+  https://www.ikhouvanhoorn.nl/
 
 2. # _CMS_
    ====================================================
@@ -129,3 +134,8 @@
 
 - Defi
   https://app.speedex.io/
+
+- HubSpot
+  https://www.paloaltonetworks.com/
+  https://www.ivoclar.com/en_us
+  https://www.flaticon.com/

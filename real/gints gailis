@@ -1,0 +1,33 @@
+smash or pass
+
+
+
+
+
+
+
+
+Hi :)
+I need you to recreate a smash or pass game from 0 to playable game in browser.
+I will provide you with the graphics :)
+You need to come as an expert and create so it works and do not crash :)
+Functionality we need to have:
+- Player mode - everyone can join and play
+- Contributor - person adding new images ( need to have form for email collection )
+- Admin ( for blocking controlling players or contributors if needed)
+- score board( for admin)
+- data board ( for admin)
+- Back end and front end
+
+
+
+
+
+we agree taht the final game will be online accessible ( start on test domain- later we transfer to our own)
+to play smash or pass u do not need register or anything you can play right away
+if you want to submit images you will need to sign up via email
+images then will be used for other user to smash or pass
+
+in backend we need to collect images and stats on how much smash or pass they get
+
+eimages need to be shwon radnomly

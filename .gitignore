@@ -2,6 +2,7 @@
 !.@*
 
 .tmp.driveupload
+.tmp.drivedownload
 
 # Development
 node_modules

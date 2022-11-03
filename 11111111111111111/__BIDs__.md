@@ -173,12 +173,10 @@ Nice to meet you, I'm [XXX]. Director of DJS Tech Group, a software development 
 Sounds like you have a pretty interesting project going on, I would love to hear more about it and see if we could work together.
 
 If you think we can help, I would love to schedule a call and go over your requirements in more detail.
-Just let me know some available times or also feel free to schedule something here:
-https://schedule.blackstone.studio/nishikawa
-
-I'm attaching our deck, so you can learn a little more about us.
+Just let me know some available times or also feel free to schedule something and send me the URL.
 
 I look forward to hearing from you!
+
 
 Best,
 [XXX]
