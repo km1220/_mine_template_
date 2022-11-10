@@ -1,10 +1,10 @@
 Employment History
 =====================================================
-2010.2			2016.4
+2013.10			2017.2
 Junior Full-Stack Developer  |  Delft
 
 
-2016.5			2021.7
+2017.2			2021.8
 Senior [Web & Blockchain] Developer  |  DJS Tech Group
 
 
