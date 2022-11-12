@@ -30,6 +30,9 @@
   https://frontendwatch.com/
 
 - Nuxt / Vue
+  https://wonder.store/
+  https://lingohub.com/
+  https://host.promo/
   https://magic.estudionk.com/
   https://realation.jp/
 
