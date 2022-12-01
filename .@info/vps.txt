@@ -29,7 +29,5 @@ canada
 
 
 
-ubuntu
-360287401
-5cd77969da65D$
-188.165.234.27
+540876043 : 1 : developer2020
+proton = noahrasid01

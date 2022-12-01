@@ -4,6 +4,11 @@
 
 
 
+No pain, no gain,
+No :cross:, no :crown:.
+
+
+
 
 :droplet:
 :droplet::droplet:
