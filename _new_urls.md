@@ -53,15 +53,14 @@
 	https://www.unboundmedicine.com/
 	https://play.google.com/store/apps/details?id=com.unbound.android.ubnc2l
 
-	https://www.unboundmedicine.com/
-	https://play.google.com/store/apps/details?id=com.unbound.android.ubrb2
 
 - CMS: Contentful, F: GSAP
 	https://www.levelex.com/
 	https://play.google.com/store/apps/details?id=com.levelex.pantheon
 	https://apps.apple.com/us/app/top-derm/id1505608766
 
-
+- python
+	https://www.nhs.uk/			(django)
 
 
 
@@ -167,6 +166,24 @@ let's contact again.
 	https://rever.vn	
 	https://carrworkplaces.com
 
+- webflow
+	https://cadre.com/
+	https://www.houst.com/
+
+- Preact
+	https://www.century21.fr/			(TailwindCSS)
+
+- Next
+	https://ofirio.com/
+
+- python/django
+	https://www.bidx1.com/
+	https://www.pricehubble.com/en/			(CMS: wartail)
+	https://www.meilleurecopro.com/			(React)
+	https://www.xandwhy.co.uk/				(f: stimulus)
+	https://www.acrevalue.com/				(Angular | React)
+	https://www.makdubai.com/				(CMS: Squarespace, f: React | Stimulus)
+
 
 ======================== Mortgage / loan ==========================
 - Webflow
@@ -198,7 +215,9 @@ let's contact again.
 
 
 
-
+===========================  3D site =========================
+- React
+	https://sketchfab.com/ 				(python)
 
 
 
@@ -214,6 +233,27 @@ let's contact again.
 
 ============== food delivery ================
 
-	https://supermeal.co.uk/
+	https://supermeal.co.uk/			(ASP.NET)
 	https://play.google.com/store/apps/details?id=waqartech.supermeal.consumer&hl=en&pli=1
 	https://apps.apple.com/gb/app/supermeal-co-uk/id1342610328?ls=1
+
+
+============== luxury shop =======================
+- Shopify
+	https://www.brooklinen.com/				(Payment: Venmo, PayPal, Apple Pay, Amazon Pay)
+
+- Gatsby
+	https://www.wolfandbadger.com/
+
+- ski items shop
+	https://www.burton.com/				(Vue, CRM: Salesforce)       
+	https://mchire.com/					(Vue, django)
+
+- fish shop
+	https://www.saltwaterfish.com/			(React, Vue,   django)
+	https://apps.apple.com/us/app/saltwaterfish-com/id1631995833
+	https://play.google.com/store/apps/details?id=com.saltwaterfish.www.twa
+
+
+- food & shop
+	https://www.thegalleria.ae/en/			(Vue, django, CMS: Wagtail)

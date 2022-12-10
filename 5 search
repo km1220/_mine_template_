@@ -1,7 +1,9 @@
-https://www.upwork.com/nx/jobs/search/?q=blockchain%20OR%20crypto%20OR%20web3%20OR%20dapp%20OR%20nft%20OR%20backend%20OR%20node%20OR%20golang%20OR%20php%20OR%20next%20OR%20python%20OR%20api%20OR%20graphql%20OR%20db%20OR%20frontend%20OR%20react%20OR%20vue%20OR%20svelte%20OR%20bootstrap%20OR%20mobile%20OR%20android%20OR%20ios&sort=recency&client_hires=0,1-9&location=Americas,Europe,Oceania
 
 
+https://www.upwork.com/nx/jobs/search/?q=%28web%20OR%20site%20OR%20mobile%20OR%20app%20OR%20blockchain%20OR%20%20cms%20OR%20senior%20OR%20expert%29%20NOT%20%28india%20OR%20pakistan%20OR%20bangladesh%29&sort=recency&contractor_tier=2,3&proposals=0-4,5-9,10-14&location=Americas,Europe,Oceania
 
+
+NOT (india OR pakistan OR bangladesh)
 
 https://www.kucoin.com/futures/trade/ETHUSDTM?isQuickOrder=true&utm_source=SpotToFutures&spm=kcWeb.B5trading.shiftCategory.3
 
