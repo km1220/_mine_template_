@@ -1,7 +1,7 @@
 ###### Common(Generic) bid
 
 Hello, after just reading your job posting, very glad to get a chance of talking about my reasonable experience.
-I have already ever developed [[[music/video streaming apps]]] on exciting opportunities before, especially myself quite familiar with [[[Twillio/streaming API & libraries]]].
+I have already ever developed [] on exciting opportunities before, especially myself quite familiar with [].
 Here are some of my past relevant works.
 
 >

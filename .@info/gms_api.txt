@@ -1,1 +1,33 @@
-g_map_api_key	 /	AIzaSyCvyjZypDVC-1SxKmVeztnu9jQcUD2dNro
+
+g_map_api_key		/		AIzaSyCvyjZypDVC-1SxKmVeztnu9jQcUD2dNro
+                    AIzaSyA6Ua0wbm-QZwhIdnYQUYC27yE5pa584eU
+g_matrix_api_key	/		AIzaSyCbPCzscNiI0ed4ltnc6V9sv5NCyuFoIss
+
+
+
+
+============================================ OpenAI ===============================================
+https://api.openai.com/v1/images/generations?=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
+
+Header		/	Content-Type	:	application/json
+Authentication	/	Bearer Token	:	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
+Body		/	row		:	{
+							"prompt": "ai text to generate a image",
+							"n": 2,
+							"size": "1024x1024"
+						}
+===================================================================================================
+
+
+{
+  "prompt": "modern tank",
+  "n": 2,
+  "size": "1024x1024"
+}
+
+
+{
+  "prompt": "modern tank",
+  "n": 2,
+  "size": "1024x1024"
+}

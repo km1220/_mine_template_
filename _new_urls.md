@@ -14,10 +14,17 @@
 	https://play.google.com/store/apps/details?id=com.tecnovagas
 	https://www.jobteaser.com/			(CMS: Thelia, symfony)
 
+	https://www.wthparis.com/			(Animate.css,   Vervel)
+	https://www.abyxo.com/				(Next.js cms: wordpress, anime.js)
+
 - Next
 	https://joinentre.com/
 	https://play.google.com/store/apps/details?id=com.joinentre
 	https://apps.apple.com/us/app/entre-entrepreneur-network/id1486408018
+
+- webflow
+	https://underdog.io/				(cloudflare, AWS S3 bucket)
+
 
 
 
@@ -44,6 +51,9 @@
 
 
 
+
+
+
 ================ doctor treatment ==================================
 - wordpress, php
 	https://www.pocketprep.com/
@@ -64,26 +74,29 @@
 
 
 
+
+
+
+
+
 =================== health care ====================
 - gatsby
 	https://commonality.me/
 	https://play.google.com/store/apps/details?id=com.commonalitynativeapp
 
-
 	https://medicalid.app/
 	https://play.google.com/store/apps/details?id=app.medicalid.free
 
-
 - CM: Adobe experience manaager,
-	https://www.globalpointofcare.abbott/en/product-details/navica-binaxnow-covid-19-us.html
-	https://www.globalpointofcare.abbott/en/product-details/navica-binaxnow-covid-19-us.html
+	https://www.globalpointofcare.abbott/
 
-
-
-============================= healthcare =====================================
 - webflow, 
 	https://www.glucosebuddy.com/				(using paypal, stripe)
 	https://play.google.com/store/apps/details?id=com.skyhealth.glucosebuddyfree&hl=en_US&gl=US
+	https://apps.apple.com/us/app/glucose-buddy-diabetes-tracker/id294754639
+
+
+
 
 
 
@@ -98,6 +111,10 @@ https://www.clubedasorte.bet/			(Vue, Nuxt, PWA)
 
 https://betway.com/						(Kentico CMS, APS.NET)
 https://apps.apple.com/US/app/id1616647079?mt=8
+
+
+
+
 
 
 
@@ -116,6 +133,11 @@ https://apps.apple.com/US/app/id1616647079?mt=8
 	https://hallway.agency/ (framework: Yii)
 
 
+
+
+
+
+
 ======================= PaaS ==============================
 - wordpress
 	https://caveoinfosystems.com/			(three.js)
@@ -125,6 +147,9 @@ https://apps.apple.com/US/app/id1616647079?mt=8
 
 - CMS: Ghost, F: React
 	https://blog.atomist.com/
+
+- CMS: Drupal, F: React
+	https://matterport.com/								3D camera capture
 
 - F: Ember.js, RoR
 	https://community.bloomreach.com/
@@ -136,21 +161,22 @@ https://apps.apple.com/US/app/id1616647079?mt=8
 	https://switchboard.media/				(Node/express)
 	https://moonehq.com/					(Preact,   Stripe)
 	
-
 - Gastby
 	https://www.axiscode.com/
 	https://bigfastblog.com/		(portfolio)
 
 - Nuxt
 	https://www.boleanwise.com/
-	https://play.google.com/store/apps/details?id=com.skyhealth.glucosebuddyfree&hl=en_US&gl=US
 
 
-https://apps.apple.com/us/app/glucose-buddy-diabetes-tracker/id294754639
-let's contact again.
+
+
 
 
 ========================= real estate =========================
+	https://www.royallepage.ca/			(jQuery)
+
+
 - gatsby
 	https://listingloop.com.au/
 	https://trustinvestment.pl/
@@ -175,6 +201,13 @@ let's contact again.
 
 - Next
 	https://ofirio.com/
+	https://www.zoocasa.com/			(MUI, Swiper)
+	https://www.remax.ca/				(MUI, AWS)
+
+- ASP.NET
+	https://www.point2homes.com/		
+	https://www.remaxcentre.ca/			(Azure, bootstrap)
+	https://www.agoda.com/				(React, Ngnix, Google Sign-in)
 
 - python/django
 	https://www.bidx1.com/
@@ -185,15 +218,22 @@ let's contact again.
 	https://www.makdubai.com/				(CMS: Squarespace, f: React | Stimulus)
 
 
+
 ======================== Mortgage / loan ==========================
 - Webflow
-	https://www.qoins.com/
+	https://www.qoins.com/						payment | money loan | currency
+
+
+
+
+
 
 
 ======================== LMS online learning (techs) ============================
 - React
 	https://ed.team/ 			(Next, Zoho)
 	https://platzi.com/			()
+
 - gatsby
 	https://masterplan.com
 
@@ -207,10 +247,49 @@ let's contact again.
 
 
 ================================== ecommerce =========================
+- Node/Express
+	https://enomy.com/				(CRM: Intercom, Bootstrap)	(Nigeria)
+	https://apps.apple.com/us/app/id1516828417
+	https://play.google.com/store/apps/details?id=com.enomy&hl=en 				[not working!]
+	
 - gatsby
 	https://techboomers.com
+
 - shopify
 	https://monos.com/				(Rust)
+
+- wordpress
+	https://www.carboncoskins.com/ 						(stripe)	(Credit/Debit Card)
+
+- Drupal
+	https://www.diamondcbd.com/						(Vue)
+
+--------------------------------------- luxury shop ----------------------------------
+- Shopify
+	https://www.brooklinen.com/				(Payment: Venmo, PayPal, Apple Pay, Amazon Pay)
+
+- Gatsby
+	https://www.wolfandbadger.com/
+
+
+------------------------------------- ski items shop ----------------------------------
+	https://www.burton.com/				(Vue, CRM: Salesforce)       
+	https://mchire.com/					(Vue, django)
+
+
+--------------------------------------- fish shop ---------------------------
+	https://www.saltwaterfish.com/			(React, Vue,   django)
+	https://apps.apple.com/us/app/saltwaterfish-com/id1631995833
+	https://play.google.com/store/apps/details?id=com.saltwaterfish.www.twa
+
+
+------------------------------------- food & shop ------------------------------------
+	https://www.thegalleria.ae/en/			(Vue, django, CMS: Wagtail)
+
+
+------------------------------------- wine advertisement ------------------------------------
+	https://bellandgong.com/				(cms: joomla)
+
 
 
 
@@ -230,6 +309,10 @@ let's contact again.
 	https://www.crazygames.com/game/time-shooter-3-swat
 	https://www.crazygames.com/game/crazy-roll-3d
 
+	https://map.neighborhood.zone/
+
+
+
 
 ============== food delivery ================
 
@@ -238,22 +321,33 @@ let's contact again.
 	https://apps.apple.com/gb/app/supermeal-co-uk/id1342610328?ls=1
 
 
-============== luxury shop =======================
-- Shopify
-	https://www.brooklinen.com/				(Payment: Venmo, PayPal, Apple Pay, Amazon Pay)
-
-- Gatsby
-	https://www.wolfandbadger.com/
-
-- ski items shop
-	https://www.burton.com/				(Vue, CRM: Salesforce)       
-	https://mchire.com/					(Vue, django)
-
-- fish shop
-	https://www.saltwaterfish.com/			(React, Vue,   django)
-	https://apps.apple.com/us/app/saltwaterfish-com/id1631995833
-	https://play.google.com/store/apps/details?id=com.saltwaterfish.www.twa
 
 
-- food & shop
-	https://www.thegalleria.ae/en/			(Vue, django, CMS: Wagtail)
+
+
+
+
+================================== FinTech ==========================================
+- Next
+	https://www.onebrick.io/				(cms: DatoCMS)
+
+
+======================= fitness site =======================
+- wordpress
+	https://myfitstation.com/
+	https://www.nerdfitness.com/
+
+============================== travel ======================
+- wordpress
+	https://www.healthwithevidence.com/
+
+
+=================== card ======================
+
+- wordpress
+	https://www.carboncoskins.com/
+
+
+===================== dating project =============================
+- Vue
+	https://www.onluxy.com/					(ASP.NET)

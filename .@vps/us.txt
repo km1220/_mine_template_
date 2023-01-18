@@ -1,0 +1,42 @@
+3aXZ5J2l8v34
+
+
+
+
+
+
+
+
+Virtual server activation
+Dear sakamoto gengyiji!
+
+This is to inform you a virtual server was set up by your request. You may print this letter for future use.
+
+Server information
+Service package: Ruthenium[USA]
+Setup date: 2023-01-18
+Domain name: vm913770.stark-industries.solutions
+Server IP address: 185.250.151.23
+User: root
+Password: go8Ae0h16hkX
+You must to change server password after first log in.
+
+VMmanager 6 - external panel for server management
+The external panel for server management can be used to reboot your server, reinstall operating system, view statistics on server load and traffic consumption.
+
+URL: https://jarvis.stark-industries.solutions
+User: chi154389@gmail.com
+Password: 3aXZ5J2l8v34
+
+You can click the "Open" icon in the "Virtual servers" module in your Member area for switching to the external panel for server management. You will be authorized automatically.
+
+Remote access to Windows
+You ordered the server on Windows. To access the server you may use the standard Windows program "Remote desktop connection". For access use IP address 185.250.151.23, user Admin, password go8Ae0h16hkX
+
+Windows is using trial version for 180 days. After this period spontaneous reboots may occurs.
+
+
+We hope you will enjoy your virtual server!
+Perfect Quality Hosting team
+
+Follow us on social media!
