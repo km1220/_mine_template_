@@ -244,6 +244,10 @@ https://apps.apple.com/US/app/id1616647079?mt=8
 ===========================  book selling ====================================
 	https://www.philibertnet.com/en/ 		(prestashop, zoho)
 
+===========================  bike rental / selling / shop / ===========================
+- wordpress
+	https://bikerentalmanager.com/
+
 
 
 ================================== ecommerce =========================
@@ -341,7 +345,6 @@ https://apps.apple.com/US/app/id1616647079?mt=8
 - wordpress
 	https://www.healthwithevidence.com/
 
-
 =================== card ======================
 
 - wordpress
@@ -351,3 +354,57 @@ https://apps.apple.com/US/app/id1616647079?mt=8
 ===================== dating project =============================
 - Vue
 	https://www.onluxy.com/					(ASP.NET)
+
+
+
+
+
+
+
+
+
+
+========================   game    =============
+- three.js, webflow
+	ZW5I-NDEP-T6LP-BETA
+	https://metaw1935.com/
+
+
+================================ ride / delivery / drive =================
+- marko
+	https://www.mevron.com/
+
+
+
+
+
+
+
+
+======================== marketing ================
+
+https://supermetrics.com/
+https://windsor.ai/
+
+
+
+
+
+
+
+
+
+
+
+============================================================
+- wordpress sites
+	https://www.airconserve.com.au/
+	https://climatech.net.au/
+	https://beaverwilliams.com.au/
+	https://www.fredon.com.au/
+	https://www.agcoombs.com.au/
+	https://www.de-air.com.au/
+	https://www.bsa.com.au/
+	https://www.achall.com.au/
+	https://addstaff.com.au/
+	https://www.airmaster.com.au/
