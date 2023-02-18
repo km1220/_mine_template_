@@ -1,0 +1,48 @@
+first repository yolo-v7 is a project to detect human and track using kalman filter.
+
+
+It's developed to overcome occlusion issue
+
+
+the second project "Sensor Based Motion Detect" is developed to predict human motion based on Mobile device sensor data
+
+
+the app gathers sensor data available on the phone such as Motion sensors - acceleration, rotation, geolocation, etc, and other sensors - distance from human and device, temperature,...
+
+
+the final result is the motion types.
+
+
+And third repository - farcast is developed to predict stock price.
+
+
+It forecasts stock prices using ARIMA, SSA, LSTM.
+
+
+All forecast methds are implemented on the project.
+
+
+
+And I'm working on a project - AR
+
+
+It detect target from realtime video stream, calculate camera calibration, and render 3d object on the target place.
+
+
+When camera calib data is changed, the rendered object is synchronized
+
+
+so that it's showed as if it's in the real world.
+
+
+To be honestly, ML/DL fields are too hudge,
+
+
+I want to know what kind of AI stack do you need
+
+
+
+
+
+
+
