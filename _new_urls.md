@@ -408,3 +408,102 @@ https://windsor.ai/
 	https://www.achall.com.au/
 	https://addstaff.com.au/
 	https://www.airmaster.com.au/
+
+
+
+	
+
+
+
+
+
+========================= real estate =========================
+- gatsby
+	https://listingloop.com.au/
+	https://trustinvestment.pl/
+
+- hubspot
+	https://www.w2realestate.com	
+	https://www.kyero.com	
+	https://aplushome.vn	
+	https://www.tribes.world	
+	https://ocre.com.au	
+	https://www.immojeune.com	
+	https://cardonecapital.com	
+	https://rever.vn	
+	https://carrworkplaces.com
+
+- webflow
+	https://cadre.com/
+	https://www.houst.com/
+
+- Preact
+	https://www.century21.fr/			(TailwindCSS)
+
+- Next
+	https://ofirio.com/
+
+- python/django
+	https://www.bidx1.com/
+	https://www.pricehubble.com/en/			(CMS: wartail)
+	https://www.meilleurecopro.com/			(React)
+	https://www.xandwhy.co.uk/				(f: stimulus)
+	https://www.acrevalue.com/				(Angular | React)
+	https://www.makdubai.com/				(CMS: Squarespace, f: React | Stimulus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===========================================================================
+- three.js
+	https://magic.estudionk.com/
+	https://drnktypo.com/
+	https://mindcure.com/
+
+- Gastby.js
+	https://www.sitepoint.com/			(cms: Sanity)
+	https://www.freal.com
+	https://listingloop.com.au/
+	https://masterplan.com 				(cms: Contentful)
+	https://techboomers.com 			(cms: Wordpress)
+	https://trustinvestment.pl
+
+- Next
+	https://mindcure.com/
+	https://joinentre.com/
+	https://blackcat-eight.vercel.app/
+	
+- Nuxt
+	https://wonder.store/
+	https://proxify.io/
+
+- Laravel + Vue
+	https://parsinta.com/
+	https://www.sparrowshare.com/
+
+- svelte
+	https://gi.dk/
+	https://strollyn.com/
+	https://www.decathlon.nl/
+
+- Java
+	https://www.unboundmedicine.com/
+	
+- Blockchain
+	https://www.oduwacoin.io/
+	https://titano.finance/
+	https://www.mtpelerin.com/
+	https://phemex.com/
