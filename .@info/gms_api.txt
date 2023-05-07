@@ -6,48 +6,7 @@ g_matrix_api_key	/		AIzaSyCbPCzscNiI0ed4ltnc6V9sv5NCyuFoIss
 
 
 
-============================================ OpenAI ===============================================
-https://api.openai.com/v1/images/generations?=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
-
-Header		/	Content-Type	:	application/json
-Authentication	/	Bearer Token	:	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
-Body		/	row		:	{
-							"prompt": "ai text to generate a image",
-							"n": 2,
-							"size": "1024x1024"
-						}
-===================================================================================================
-
-
-{
-  "prompt": "modern tank",
-  "n": 2,
-  "size": "1024x1024"
-}
-
-
-{
-  "prompt": "modern tank",
-  "n": 2,
-  "size": "1024x1024"
-}
-
-
 Jack Dwyer  /      Jack@conduitcapital.co / Jwd121086!
-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
-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
 
 
 
-
-Afshan M
-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
-
-
-
-
-
-
-
-eliteveteran987 / 1qazxsw2#EDC
-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

@@ -1,0 +1,19 @@
+AI
+Dear Anneli, thanks for your job posting and I am very interested in your job.
+I am a full-stack developer who has rich experience in OpenAI and ChatGPT API using Node.js and Python.
+
+
+
+Recently, I have developed a similar project to yours. This was medical service. In this project, I used gpt-4 model, Langchain, and Pinecone.
+If a user upload a pdf or doc, it extract all text from that, and build the model. If a user input his healthy, in frontend, it detect this state and send to backend via Axios request. And then, In backend, it receives it and using OpenAI API, generates response to the it. But in this case, the model that generates response have to be pre-trained by specified dataset of medical data. The training process is done using OpenAI fine-tuning API and medical dataset. Also, to give the users user-friendly environment, I generated human's image for chatbot using OpenAI DALL-E API, and this chatbot recognize the user's speech, analyze this speech and convert to text using OpenAI Whisper API. WIth this text, also I implemented the function that can generate response to the user's speech. I implemented UI pixel-perfect and responsive design on frontend and built RESTful API for OpenAI on backend.
+
+
+
+Please check this URL(https://get.big-agi.com/, https://talkingpdf.rubenk.com.np/). This is simple project that can show you my AI skillsets. I built frontend using React and Next.js and backend using Node.js.
+
+
+
+If you are interested in my previous work and my skill, please feel free to contact me. Looking forward to discuss the project.
+Thank you for your attention.
+
+
